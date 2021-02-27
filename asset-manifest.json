@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/prelim2-reactjs/static/css/main.1b1b0b69.chunk.css",
+    "main.js": "/prelim2-reactjs/static/js/main.c2f2c153.chunk.js",
+    "main.js.map": "/prelim2-reactjs/static/js/main.c2f2c153.chunk.js.map",
+    "runtime-main.js": "/prelim2-reactjs/static/js/runtime-main.88e76e40.js",
+    "runtime-main.js.map": "/prelim2-reactjs/static/js/runtime-main.88e76e40.js.map",
+    "static/js/2.2c69123f.chunk.js": "/prelim2-reactjs/static/js/2.2c69123f.chunk.js",
+    "static/js/2.2c69123f.chunk.js.map": "/prelim2-reactjs/static/js/2.2c69123f.chunk.js.map",
+    "index.html": "/prelim2-reactjs/index.html",
+    "static/css/main.1b1b0b69.chunk.css.map": "/prelim2-reactjs/static/css/main.1b1b0b69.chunk.css.map",
+    "static/js/2.2c69123f.chunk.js.LICENSE.txt": "/prelim2-reactjs/static/js/2.2c69123f.chunk.js.LICENSE.txt",
+    "static/media/You Owe It To Yourself To Be Great - Motivational Speech.2ff26851.mp4": "/prelim2-reactjs/static/media/You Owe It To Yourself To Be Great - Motivational Speech.2ff26851.mp4",
+    "static/media/game-controller.8a2ec189.png": "/prelim2-reactjs/static/media/game-controller.8a2ec189.png",
+    "static/media/grandparents.623ef637.png": "/prelim2-reactjs/static/media/grandparents.623ef637.png",
+    "static/media/headphones.732c1c09.png": "/prelim2-reactjs/static/media/headphones.732c1c09.png",
+    "static/media/six-pack.bf0de055.png": "/prelim2-reactjs/static/media/six-pack.bf0de055.png",
+    "static/media/todo.2a878d2f.mp3": "/prelim2-reactjs/static/media/todo.2a878d2f.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88e76e40.js",
+    "static/js/2.2c69123f.chunk.js",
+    "static/css/main.1b1b0b69.chunk.css",
+    "static/js/main.c2f2c153.chunk.js"
+  ]
+}
